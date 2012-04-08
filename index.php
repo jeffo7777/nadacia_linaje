@@ -1,5 +1,6 @@
 <?php
 
-    echo 'hello';
+   
+    echo 'uprava index.php';
 
 ?>
